@@ -1,0 +1,167 @@
+{%  load static %}
+{% load custom_filters %}
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>WordMaster</title>
+    
+    
+    
+    <link rel="stylesheet" href="{% static "basic-app.css" %}">
+    
+    <link rel="stylesheet" href="{% static 'css/uikit.min.css' %}">
+    
+    <script src="{% static 'js/uikit.min.js' %}"></script>
+    <script src="{% static 'js/uikit-icons.min.js' %}"></script>
+
+</head>
+<body>
+<nav class="uk-navbar-container">
+    <div class="uk-container">
+        <div uk-navbar>
+            <div class="uk-navbar-left">
+            </div>
+
+            <div class="uk-navbar-center ">
+                <h1 class="uk-heading-medium uk-heading-line">{{title_app}}</h1>
+            </div>
+
+            <div class="uk-navbar-right uk-flex uk-flex-middle">
+            
+                <div class="uk-navbar-item uk-visible@m">
+                    <span uk-icon="users"></span>
+                </div>
+                {% if user.is_authenticated %}
+                    <div class="uk-navbar-item  uk-visible@m">
+                        {{ user.get_username|upper }}
+                    </div>
+                {% endif %}
+                
+                <div class="uk-navbar-item ">
+                    {% if user.is_authenticated %}
+                        <form method="POST" action="{% url 'logout' %}">
+                            {% csrf_token %}
+                            <button class="uk-button uk-button-default">
+                                Wyloguj
+                            </button>
+                        </form>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+        
+        
+</div>
+    
+    
+    <div>
+    
+    
+        <ul class = "uk-nav uk-flex uk-flex-center uk-text-center">
+            <li class = 'uk-width-1-3@s uk-width-1-3@m uk-width-1-3@l '><a  href='{% url 'choice_category_url' %}' class="uk-button uk-button-default uk-border-rounded uk-text-center uk-flex uk-flex-center uk-flex-middle"> Kategorie </a></li>
+            <li class = 'uk-width-1-3@s uk-width-1-3@m uk-width-1-3@l '><a  href='{% url 'review_words_view_url' %}' class="uk-button uk-button-default uk-border-rounded uk-text-center uk-flex uk-flex-center uk-flex-middle"> Powtórki </a></li>
+            <li class = 'uk-width-1-3@s uk-width-1-3@m uk-width-1-3@l '><a  href='{% url 'quiz_filter_view_url' %}' class="uk-button uk-button-default uk-border-rounded uk-text-center uk-flex uk-flex-center uk-flex-middle"> QUIZ</a></li>
+        </ul>
+    
+    </div>
+
+     <div class="uk-card uk-card-body uk-card-default uk-text-center uk-margin-medium">
+    <h1>Quiz</h1>
+         
+    <span>{{ total_word_count }}</span>
+         
+    </div>
+         {% if messages %}
+                <ul class="uk-margin-small uk-card-default uk-list uk-list-collapse">
+                    {% for message in messages %}
+                        <li class="uk-alert-{{ message.tags }} uk-alert">
+                            {{ message }}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+    </div>
+        
+    
+    
+
+    <div class="uk-flex uk-flex-center uk-margin-top" uk-filter="target: .js-filter">
+
+    <ul class="uk-subnav uk-subnav-pill">
+        <li><a href="{% url 'change_category_url' category='Pogoda' %}">Pogoda</a></li>
+        <li><a href="{% url 'change_category_url' category='Zdrowie' %}">Zdrowie</a></li>
+        <li><a href="{% url 'change_category_url' category='Technologia' %}">Technologia</a></li>
+        <li><a href="{% url 'change_category_url' category='Podróże' %}">Podróże</a></li>
+        <li><a href="{% url 'change_category_url' category='Psychologia' %}">Psychologia</a></li>
+        <li><a href="{% url 'change_category_url' category='Klimat' %}">Klimat</a></li>
+    
+    </ul>
+    </div>
+            
+  
+    
+    <div class="uk-flex uk-flex-center uk-margin-top" uk-filter="target: .js-filter">
+
+    <ul class="uk-subnav uk-subnav-pill">
+        <li><a href="{% url 'quiz_level_url' lev='B1' %}">B1</a></li>
+        <li><a href="{% url 'quiz_level_url' lev='B2' %}">B2</a></li>
+        <li><a href="{% url 'quiz_level_url' lev='C1' %}">C1</a></li>
+    </ul>
+    </div>
+
+    
+    
+<div class="uk-card uk-card-body uk-card-default uk-text-center uk-margin-small-top  style="margin-bottom":50px;">
+    <ul>
+        {% for word in words %}
+            <li class="uk-text-center uk-flex uk-flex-center uk-flex-middle uk-margin-small-bottom">
+                <div class="uk-card uk-card-default uk-card-hover uk-card-body uk-width-1-2@m">
+                    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="animation: fade; min-height: 100; max-height: 100">
+                        <ul class="uk-slideshow-items">
+                            <li>
+                                <div class="uk-card uk-card-default uk-card-body uk-flex uk-flex-middle uk-flex-center" style="height: 100px;">
+                                    <p>{{ word.english_sentence|replace_with_form:word.english_word }}</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="uk-card uk-card-primary uk-card-body uk-flex uk-flex-middle uk-flex-center" style="height: 100px;">
+                                    <p>{{ word.polish_sentence}}</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <a style = "color: grey" class=" uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+                    </div>
+                </div>
+            </li>
+        {% empty %}
+            <li>Aplikacja zawiera 3 poziomy słownictwa: Intermediate (B1), Upper Intermediate (B2), Advanced (C1)</li>
+        {% endfor %}
+    </ul>
+
+    
+             
+    <nav class='uk-pagination-container uk-margin-small-bottom'>
+        <ul class='uk-pagination uk-flex uk-flex-between'>
+            {% if words.has_previous %}
+                <li><a href="?page={{ words.previous_page_number }}"><span class="uk-margin-small-right" uk-pagination-previous></span>Poprzednia</a></li>
+            {% else %}
+                <li class="uk-disabled"><span class="uk-margin-small-right" uk-pagination-previous></span>Poprzednia</li>
+            {% endif %}
+
+            {% if words.has_next %}
+                <li><a href="?page={{ words.next_page_number }}">Następna <span class="uk-margin-small-left"uk-pagination-next></span></a></li>
+            {% else %}
+                <li class="uk-disabled"><span class="uk-margin-small-left" uk-pagination-next></span>Następna</li>
+            {% endif %}
+        </ul>
+    </nav>
+    
+    
+</div>
+    
+</body>
+</html>

@@ -1,0 +1,481 @@
+categories,english_word,polish_word,english_sentence,polish_sentence,level
+Pogoda,Cloudy,Pochmurny,The sky is cloudy today.,Dziś niebo jest pochmurne.,B2
+Pogoda,Sunny,Słoneczny,It’s going to be sunny all week.,Cały tydzień będzie słoneczny.,B2
+Pogoda,Rainy,Deszczowy,The forecast says it will be rainy tomorrow.,"Prognoza mówi, że jutro będzie deszczowo.",B2
+Pogoda,Stormy,Burzowy,We should stay indoors because it’s stormy outside.,"Powinniśmy zostać w środku, ponieważ na zewnątrz jest burzowo.",B2
+Pogoda,Foggy,Mglisty,The roads are very foggy this morning.,Drogi są bardzo mgliste tego ranka.,B2
+Pogoda,Windy,Wietrzny,It’s quite windy today; make sure to wear a jacket.,"Dziś jest dość wietrznie; upewnij się, że założysz kurtkę.",B2
+Pogoda,Drizzle,Mżawka,"There’s a light drizzle, so bring an umbrella.","Jest lekka mżawka, więc weź parasol.",B2
+Pogoda,Thunder,Grzmot,The thunder was so loud it woke me up.,"Grzmot był tak głośny, że obudził mnie.",B2
+Pogoda,Lightning,Błyskawica,We saw a flash of lightning during the storm.,Widzieliśmy błyskawicę podczas burzy.,B2
+Pogoda,Overcast,Zasłonięty chmurami,"The weather is overcast, and it looks like rain.",Pogoda jest zasłonięta chmurami i wygląda na deszczową.,B2
+Pogoda,Hail,Grad,The storm brought hailstones as big as golf balls.,Burza przyniosła grad wielkości piłeczek golfowych.,B2
+Pogoda,Blizzard,Zamieć,The blizzard caused several road closures.,Zamieć śnieżna spowodowała zamknięcie kilku dróg.,B2
+Pogoda,Heatwave,Fala upałów,A heatwave is expected to last through the weekend.,"Oczekuje się, że fala upałów potrwa do końca tygodnia.",B2
+Pogoda,Chilly,Chłodny,"It’s a bit chilly this morning, so bring a sweater.","Jest trochę chłodno tego ranka, więc weź sweter.",B2
+Pogoda,Mild,Łagodny,The weather has been mild for this time of year.,Pogoda była łagodna jak na tę porę roku.,B2
+Pogoda,Frost,Mróz,There was a heavy frost on the ground this morning.,Rano na ziemi był mocny mróz.,B2
+Pogoda,Humidity,Wilgotność,"The humidity is high, making it feel even warmer.","Wilgotność jest wysoka, co sprawia, że jest jeszcze cieplej.",B2
+Pogoda,Dew,Rosa,The grass was covered in dew when I woke up.,"Trawa była pokryta rosą, gdy się obudziłem.",B2
+Pogoda,Drizzle,Mżawka,The weather forecast predicts light drizzle throughout the day.,Prognoza pogody przewiduje lekką mżawkę przez cały dzień.,B2
+Pogoda,Gale,Silny wiatr,The gale-force winds caused damage to the coastal areas.,Wiatr o sile sztormowej spowodował szkody w rejonach nadmorskich.,B2
+Pogoda,Tornado,Tornado,The tornado touched down and caused extensive damage.,Tornado wylądowało i spowodowało rozległe zniszczenia.,B2
+Pogoda,Fahrenheit,Fahrenheit,The temperature is 75 degrees Fahrenheit today.,Temperatura wynosi dziś 75 stopni Fahrenheita.,B2
+Pogoda,Celsius,Celsjusz,"It’s 20 degrees Celsius outside, which is quite pleasant.","Na zewnątrz jest 20 stopni Celsjusza, co jest całkiem przyjemne.",B2
+Pogoda,Equinox,Równonoc,The spring equinox marks the beginning of the season.,Równonoc wiosenna oznacza początek sezonu.,B2
+Pogoda,Solstice,Przesilenie,The summer solstice is the longest day of the year.,Przesilenie letnie to najdłuższy dzień w roku.,B2
+Pogoda,Precipitation,Opady,The weather report showed a chance of precipitation this evening.,Raport pogodowy wykazał szansę na opady dzisiaj wieczorem.,B2
+Pogoda,Barometer,Barometr,"The barometer dropped, indicating a storm might be approaching.","Barometr spadł, co wskazuje na możliwe nadejście burzy.",B2
+Pogoda,Isobar,Izobara,"The weather map shows isobars close together, indicating strong winds.","Mapa pogodowa pokazuje izobary blisko siebie, co wskazuje na silne wiatry.",B2
+Pogoda,Forecast,Prognoza,The weather forecast predicts sunny skies for the weekend.,Prognoza pogody przewiduje słoneczną pogodę na weekend.,B2
+Pogoda,Temperature,Temperatura,The temperature dropped significantly last night.,Temperatura spadła znacząco zeszłej nocy.,B2
+Zdrowie,Diagnosis,Diagnoza,The doctor gave a diagnosis after the tests.,Lekarz postawił diagnozę po wykonaniu badań.,B2
+Zdrowie,Symptom,Objaw,A fever is a common symptom of the flu.,Gorączka jest częstym objawem grypy.,B2
+Zdrowie,Treatment,Leczenie,The treatment for the infection includes antibiotics.,Leczenie infekcji obejmuje antybiotyki.,B2
+Zdrowie,Medication,Lek,She takes her medication every morning.,Bierze swoje leki każdego ranka.,B2
+Zdrowie,Prescription,Recepta,I need to get a prescription from the doctor.,Muszę dostać receptę od lekarza.,B2
+Zdrowie,Allergy,Alergia,He has an allergy to peanuts.,Ma alergię na orzeszki ziemne.,B2
+Zdrowie,Vaccination,Szczepienie,Vaccination is important for preventing diseases.,Szczepienie jest ważne dla zapobiegania chorobom.,B2
+Zdrowie,Infection,Infekcja,The wound became infected after a few days.,Rana została zakażona po kilku dniach.,B2
+Zdrowie,Inflammation,Zapalenie,The doctor said there was inflammation in the joint.,"Lekarz powiedział, że jest zapalenie w stawie.",B2
+Zdrowie,Chronic,Przewlekły,He suffers from chronic back pain.,Cierpi na przewlekły ból pleców.,B2
+Zdrowie,Acute,Ostry,She was taken to the hospital with acute abdominal pain.,Zabrano ją do szpitala z ostrym bólem brzucha.,B2
+Zdrowie,Recovery,Rekonwalescencja,Her recovery took several weeks.,Jej rekonwalescencja trwała kilka tygodni.,B2
+Zdrowie,Diagnosis,Diagnoza,The diagnosis revealed a rare condition.,Diagnoza ujawniła rzadką chorobę.,B2
+Zdrowie,Surgery,Operacja,He will need surgery to repair the damaged ligament.,"Będzie potrzebna operacja, aby naprawić uszkodzony więzadło.",B2
+Zdrowie,Physical therapy,Fizjoterapia,She is undergoing physical therapy for her knee injury.,Przechodzi fizjoterapię z powodu kontuzji kolana.,B2
+Zdrowie,Consultation,Konsultacja,She scheduled a consultation with a specialist.,Umówiła się na konsultację ze specjalistą.,B2
+Zdrowie,Examination,Badanie,The doctor performed a thorough examination.,Lekarz przeprowadził dokładne badanie.,B2
+Zdrowie,Immunity,Odporność,Her immunity was weakened after the illness.,Jej odporność została osłabiona po chorobie.,B2
+Zdrowie,Contagious,Zakaźny,The flu is highly contagious.,Grypa jest bardzo zakaźna.,B2
+Zdrowie,Nausea,Nudności,She felt nausea after eating the spoiled food.,Czuła nudności po zjedzeniu zepsutego jedzenia.,B2
+Zdrowie,Headache,Ból głowy,He took some medication to relieve his headache.,"Wziął lek, aby złagodzić ból głowy.",B2
+Zdrowie,Fatigue,Zmęczenie,Persistent fatigue can be a sign of a more serious condition.,Utrzymujące się zmęczenie może być oznaką poważniejszego stanu.,B2
+Zdrowie,Painkiller,Środek przeciwbólowy,She took a painkiller for her sore back.,Wzięła środek przeciwbólowy na bolące plecy.,B2
+Zdrowie,Side effect,Efekt uboczny,The medication has several possible side effects.,Lek ma kilka możliwych efektów ubocznych.,B2
+Zdrowie,Therapy,Terapia,She is receiving therapy to manage her anxiety.,"Przechodzi terapię, aby radzić sobie z lękiem.",B2
+Zdrowie,Specialist,Specjalista,You should see a specialist for a second opinion.,Powinieneś zobaczyć się ze specjalistą w celu drugiej opinii.,B2
+Zdrowie,Medical record,Historia medyczna,The hospital requested her medical record.,Szpital poprosił o jej historię medyczną.,B2
+Zdrowie,Check-up,Badanie kontrolne,Regular check-ups are important for maintaining health.,Regularne badania kontrolne są ważne dla utrzymania zdrowia.,B2
+Zdrowie,Symptoms,Objawy,The symptoms of the flu include fever and cough.,Objawy grypy to gorączka i kaszel.,B2
+Zdrowie,Diagnosis,Diagnoza,A proper diagnosis is crucial for effective treatment.,Odpowiednia diagnoza jest kluczowa dla skutecznego leczenia.,B2
+Technologia,Software,Oprogramowanie,The new software update improves performance.,Nowa aktualizacja oprogramowania poprawia wydajność.,B2
+Technologia,Hardware,Sprzęt komputerowy,We need to upgrade the hardware in our servers.,Musimy zaktualizować sprzęt w naszych serwerach.,B2
+Technologia,Network,Sieć,The network was down for several hours.,Sieć była niedostępna przez kilka godzin.,B2
+Technologia,Database,Baza danych,The database stores all customer information.,Baza danych przechowuje wszystkie informacje o klientach.,B2
+Technologia,Cloud computing,Przetwarzanie w chmurze,Cloud computing allows for remote data access.,Przetwarzanie w chmurze umożliwia zdalny dostęp do danych.,B2
+Technologia,Cybersecurity,Cyberbezpieczeństwo,Cybersecurity measures are essential for protection.,Środki cyberbezpieczeństwa są niezbędne dla ochrony.,B2
+Technologia,Encryption,Szyfrowanie,Encryption keeps your data safe from unauthorized access.,Szyfrowanie chroni twoje dane przed nieautoryzowanym dostępem.,B2
+Technologia,Firewall,Zapora sieciowa,A firewall helps prevent unauthorized network access.,Zapora sieciowa pomaga zapobiegać nieautoryzowanemu dostępowi do sieci.,B2
+Technologia,User interface,Interfejs użytkownika,The user interface needs to be more intuitive.,Interfejs użytkownika musi być bardziej intuicyjny.,B2
+Technologia,Algorithm,Algorytm,The algorithm processes data to provide results.,"Algorytm przetwarza dane, aby dostarczyć wyniki.",B2
+Technologia,Application,Aplikacja,She downloaded a new application for her phone.,Pobierała nową aplikację na swój telefon.,B2
+Technologia,Operating system,System operacyjny,The operating system manages all computer resources.,System operacyjny zarządza wszystkimi zasobami komputera.,B2
+Technologia,Artificial Intelligence,Sztuczna inteligencja,Artificial intelligence is transforming industries.,Sztuczna inteligencja zmienia branże.,B2
+Technologia,Virtual Reality,Wirtualna rzeczywistość,Virtual reality can create immersive experiences.,Wirtualna rzeczywistość może tworzyć wciągające doświadczenia.,B2
+Technologia,Augmented Reality,Rozszerzona rzeczywistość,Augmented reality adds digital elements to the real world.,Rozszerzona rzeczywistość dodaje elementy cyfrowe do rzeczywistego świata.,B2
+Technologia,Internet of Things,Internet rzeczy,The Internet of Things connects various devices to the internet.,Internet rzeczy łączy różne urządzenia z internetem.,B2
+Technologia,Server,Serwer,The server crashed due to high traffic.,Serwer się zawiesił z powodu dużego ruchu.,B2
+Technologia,Bandwidth,Przepustowość,Higher bandwidth allows for faster data transfer.,Wyższa przepustowość pozwala na szybszy transfer danych.,B2
+Technologia,Protocol,Protokoł,The protocol defines how data is transmitted.,Protokoł definiuje sposób przesyłania danych.,B2
+Technologia,Website,Strona internetowa,The website needs to be updated regularly.,Strona internetowa musi być regularnie aktualizowana.,B2
+Technologia,Debugging,Debugowanie,Debugging helps to identify and fix code errors.,Debugowanie pomaga zidentyfikować i naprawić błędy w kodzie.,B2
+Technologia,Backup,Kopia zapasowa,Always create a backup of your important files.,Zawsze twórz kopię zapasową swoich ważnych plików.,B2
+Technologia,Login,Logowanie,You need to login to access your account.,"Musisz się zalogować, aby uzyskać dostęp do swojego konta.",B2
+Technologia,Logout,Wylogowanie,Remember to logout after using public computers.,"Pamiętaj, aby się wylogować po korzystaniu z publicznych komputerów.",B2
+Technologia,Malware,Złośliwe oprogramowanie,Malware can cause significant damage to your system.,Złośliwe oprogramowanie może spowodować znaczne szkody w systemie.,B2
+Technologia,Virus,Wirus,The antivirus software detected a virus.,Oprogramowanie antywirusowe wykryło wirusa.,B2
+Technologia,Bug,Błąd,There is a bug in the software that needs fixing.,"Jest błąd w oprogramowaniu, który wymaga naprawy.",B2
+Technologia,Update,Aktualizacja,We need to install the latest software update.,Musimy zainstalować najnowszą aktualizację oprogramowania.,B2
+Technologia,Patch,Łatka,The software patch fixed several security issues.,Łatka oprogramowania naprawiła kilka problemów z bezpieczeństwem.,B2
+Technologia,Interface,Interfejs,The new interface is more user-friendly.,Nowy interfejs jest bardziej przyjazny dla użytkownika.,B2
+Podróż,Itinerary,Plan podróży,The travel itinerary includes visits to several cities.,Plan podróży obejmuje wizyty w kilku miastach.,B2
+Podróż,Destination,Cel podróży,Our final destination is Paris.,Naszym ostatecznym celem podróży jest Paryż.,B2
+Podróż,Passport,Paszport,Make sure your passport is valid for at least six months.,"Upewnij się, że twój paszport jest ważny przez co najmniej sześć miesięcy.",B2
+Podróż,Visa,Wiza,You need a visa to enter the country.,"Potrzebujesz wizy, aby wjechać do kraju.",B2
+Podróż,Accommodation,Zakwaterowanie,We have booked accommodation in a five-star hotel.,Zarezerwowaliśmy zakwaterowanie w hotelu pięciogwiazdkowym.,B2
+Podróż,Flight,Lot,The flight was delayed due to bad weather.,Lot został opóźniony z powodu złej pogody.,B2
+Podróż,Travel insurance,Ubezpieczenie podróżne,It's wise to buy travel insurance before your trip.,Warto kupić ubezpieczenie podróżne przed wyjazdem.,B2
+Podróż,Luggage,Bagaż,My luggage was lost during the flight.,Mój bagaż zaginął podczas lotu.,B2
+Podróż,Guidebook,Przewodnik (książka),I always carry a guidebook when traveling to a new place.,"Zawsze zabieram przewodnik, gdy podróżuję do nowego miejsca.",B2
+Podróż,Reservation,Rezerwacja,We made a reservation at a popular restaurant.,Zrobiliśmy rezerwację w popularnej restauracji.,B2
+Podróż,Excursion,Wycieczka,The excursion to the mountains was breathtaking.,Wycieczka w góry była zapierająca dech w piersiach.,B2
+Podróż,Tourist,Turysta,The city is full of tourists during the summer.,Miasto jest pełne turystów latem.,B2
+Podróż,Souvenir,Pamiątka,I bought a souvenir for my friend.,Kupiłem pamiątkę dla mojego przyjaciela.,B2
+Podróż,Customs,Cła,You must declare any items over the customs limit.,Musisz zadeklarować wszelkie przedmioty przekraczające limit celny.,B2
+Podróż,Accommodation,Zakwaterowanie,The accommodation was comfortable and well-located.,Zakwaterowanie było wygodne i dobrze położone.,B2
+Podróż,Backpacker,Turysta podróżujący z plecakiem,"As a backpacker, he prefers staying in hostels.","Jako turysta podróżujący z plecakiem, woli zatrzymywać się w hostelach.",B2
+Podróż,Sightseeing,Zwiedzanie,Sightseeing in Rome includes visiting historical landmarks.,Zwiedzanie Rzymu obejmuje odwiedzanie zabytków historycznych.,B2
+Podróż,Baggage claim,Odbiór bagażu,Go to the baggage claim area to collect your luggage.,"Idź do strefy odbioru bagażu, aby odebrać swój bagaż.",B2
+Podróż,Cruise,Rejs,We went on a Mediterranean cruise last summer.,Latem odbyliśmy rejs po Morzu Śródziemnym.,B2
+Podróż,Adventure,Przygoda,The trip was an adventure of a lifetime.,Podróż była przygodą życia.,B2
+Podróż,Cultural,Kulturalny,The cultural experience was one of the highlights of the trip.,Doświadczenie kulturalne było jednym z najważniejszych punktów wyjazdu.,B2
+Podróż,Scenic,Malowniczy,We took a scenic drive through the countryside.,Wzięliśmy malowniczą przejażdżkę przez wieś.,B2
+Podróż,Local cuisine,Kuchnia lokalna,Trying the local cuisine is always a highlight of traveling.,Próbowanie kuchni lokalnej zawsze jest atrakcją podróży.,B2
+Podróż,Travel guide,Przewodnik (osoba),Our travel guide was very knowledgeable and helpful.,Nasz przewodnik był bardzo kompetentny i pomocny.,B2
+Podróż,Tour,Wycieczka,The city tour lasted for three hours.,Wycieczka po mieście trwała trzy godziny.,B2
+Podróż,Package tour,Wycieczka zorganizowana,We booked a package tour to simplify our travel arrangements.,"Zarezerwowaliśmy wycieczkę zorganizowaną, aby uprościć nasze plany podróży.",B2
+Podróż,Jet lag,Jet lag,I suffered from jet lag after my long flight.,Miałem jet lag po długim locie.,B2
+Podróż,Hostel,Hostel,She stayed in a hostel to meet other travelers.,"Zatrzymała się w hostelu, aby poznać innych podróżników.",B2
+Podróż,Visa application,Wniosek wizowy,I need to fill out a visa application before my trip.,Muszę wypełnić wniosek wizowy przed moją podróżą.,B2
+Podróż,Travel agent,Agent podróży,The travel agent helped us plan our vacation.,Agent podróży pomógł nam zaplanować wakacje.,B2
+Psychologia,Therapy,Terapia,She attends therapy sessions once a week.,Chodzi na sesje terapeutyczne raz w tygodniu.,B2
+Psychologia,Counseling,Poradnictwo,Counseling can help individuals work through their issues.,Poradnictwo może pomóc osobom w radzeniu sobie z problemami.,B2
+Psychologia,Depression,Depresja,"Depression can affect anyone, regardless of age.","Depresja może dotknąć każdego, bez względu na wiek.",B2
+Psychologia,Anxiety,Lęk,Many people experience anxiety in social situations.,Wiele osób odczuwa lęk w sytuacjach społecznych.,B2
+Psychologia,Self-esteem,Samoocena,Building self-esteem is crucial for personal development.,Budowanie samooceny jest kluczowe dla rozwoju osobistego.,B2
+Psychologia,Stress,Stres,Stress can have a significant impact on physical health.,Stres może mieć istotny wpływ na zdrowie fizyczne.,B2
+Psychologia,Cognitive,Poznawczy,Cognitive therapies focus on changing negative thought patterns.,Terapie poznawcze koncentrują się na zmianie negatywnych wzorców myślenia.,B2
+Psychologia,Behavior,Zachowanie,Understanding behavior is key to effective therapy.,Zrozumienie zachowania jest kluczowe dla skutecznej terapii.,B2
+Psychologia,Trauma,Trauma,Trauma can result from a single event or prolonged exposure.,Trauma może wynikać z jednorazowego zdarzenia lub długotrwałej ekspozycji.,B2
+Psychologia,Psychiatrist,Psychiatra,A psychiatrist can prescribe medication for mental health issues.,Psychiatra może przepisać leki na problemy zdrowia psychicznego.,B2
+Psychologia,Mindfulness,Uważność,Practicing mindfulness can help reduce stress.,Praktykowanie uważności może pomóc w redukcji stresu.,B2
+Psychologia,Insight,Wgląd,Gaining insight into one's behavior is often the first step in therapy.,Uzyskanie wglądu w swoje zachowanie często jest pierwszym krokiem w terapii.,B2
+Psychologia,Emotion,Emocja,Emotions play a significant role in our mental well-being.,Emocje odgrywają istotną rolę w naszym dobrostanie psychicznym.,B2
+Psychologia,Counselor,Doradca,A counselor provides support and guidance to clients.,Doradca zapewnia wsparcie i kierunek klientom.,B2
+Psychologia,Therapist,Terapeuta,The therapist used various techniques to help the patient.,"Terapeuta użył różnych technik, aby pomóc pacjentowi.",B2
+Psychologia,Coping mechanisms,Mechanizmy radzenia sobie,Effective coping mechanisms are important for managing stress.,Skuteczne mechanizmy radzenia sobie są ważne dla zarządzania stresem.,B2
+Psychologia,Phobia,Fobia,"She has a phobia of spiders, which affects her daily life.","Ma fobię na punkcie pająków, co wpływa na jej codzienne życie.",B2
+Psychologia,Resilience,Odporność psychiczna,Building resilience can help individuals overcome adversity.,Budowanie odporności psychicznej może pomóc ludziom przezwyciężyć trudności.,B2
+Psychologia,Addiction,Uzależnienie,Addiction can have severe effects on a person's life.,Uzależnienie może mieć poważne skutki dla życia osoby.,B2
+Psychologia,Support group,Grupa wsparcia,Joining a support group can provide comfort and understanding.,Dołączenie do grupy wsparcia może zapewnić komfort i zrozumienie.,B2
+Psychologia,Self-awareness,Samoświadomość,Self-awareness is essential for personal growth.,Samoświadomość jest niezbędna do rozwoju osobistego.,B2
+Psychologia,Psychoanalysis,Psychoanaliza,Psychoanalysis explores unconscious thoughts and feelings.,Psychoanaliza bada nieświadome myśli i uczucia.,B2
+Psychologia,Behavioral,Behawioralny,Behavioral therapy focuses on changing specific behaviors.,Terapia behawioralna koncentruje się na zmianie konkretnych zachowań.,B2
+Psychologia,Adjustment,Przystosowanie,Adjustment to a new environment can be challenging.,Przystosowanie się do nowego środowiska może być wyzwaniem.,B2
+Psychologia,Grief,Żal,Grief is a natural response to losing someone close.,Żal to naturalna reakcja na utratę bliskiej osoby.,B2
+Psychologia,Self-care,Samopielęgnacja,Self-care practices are important for maintaining mental health.,Praktyki samopielęgnacji są ważne dla utrzymania zdrowia psychicznego.,B2
+Psychologia,Mental health,Zdrowie psychiczne,Mental health is as important as physical health.,Zdrowie psychiczne jest równie ważne jak zdrowie fizyczne.,B2
+Psychologia,Emotional support,Wsparcie emocjonalne,Emotional support from friends and family can be very helpful.,Wsparcie emocjonalne od przyjaciół i rodziny może być bardzo pomocne.,B2
+Psychologia,Therapeutic,Terapeutyczny,Therapeutic techniques can aid in personal development.,Techniki terapeutyczne mogą wspierać rozwój osobisty.,B2
+Psychologia,Clinical,Kliniczny,Clinical psychologists often work in hospitals and clinics.,Psycholodzy kliniczni często pracują w szpitalach i klinikach.,B2
+Klimat,Climate change,Zmiana klimatu,Climate change is a pressing global issue.,Zmiana klimatu to pilny problem globalny.,B2
+Klimat,Greenhouse gases,Gazy cieplarniane,Greenhouse gases trap heat in the Earth's atmosphere.,Gazy cieplarniane zatrzymują ciepło w atmosferze Ziemi.,B2
+Klimat,Global warming,Globalne ocieplenie,Global warming is leading to rising sea levels.,Globalne ocieplenie prowadzi do podnoszenia się poziomu mórz.,B2
+Klimat,Carbon footprint,Ślad węglowy,Reducing your carbon footprint can help mitigate climate change.,Zmniejszenie śladu węglowego może pomóc w łagodzeniu zmiany klimatu.,B2
+Klimat,Renewable energy,Energia odnawialna,Using renewable energy sources can reduce greenhouse gas emissions.,Korzystanie z odnawialnych źródeł energii może zmniejszyć emisję gazów cieplarnianych.,B2
+Klimat,Sustainability,Zrównoważony rozwój,Sustainability is crucial for protecting the environment.,Zrównoważony rozwój jest kluczowy dla ochrony środowiska.,B2
+Klimat,Deforestation,Wylesianie,Deforestation contributes to the loss of biodiversity.,Wylesianie przyczynia się do utraty bioróżnorodności.,B2
+Klimat,Ecosystem,Ekosystem,Healthy ecosystems are vital for maintaining balance in nature.,Zdrowe ekosystemy są niezbędne do utrzymania równowagi w przyrodzie.,B2
+Klimat,Biodiversity,Bioróżnorodność,Protecting biodiversity helps ensure ecosystem stability.,Ochrona bioróżnorodności pomaga zapewnić stabilność ekosystemów.,B2
+Klimat,Climate model,Model klimatyczny,Climate models predict future changes in temperature and precipitation.,Modele klimatyczne przewidują przyszłe zmiany temperatury i opadów.,B2
+Klimat,Sea level rise,Wzrost poziomu mórz,Sea level rise poses a threat to coastal communities.,Wzrost poziomu mórz stanowi zagrożenie dla społeczności nadmorskich.,B2
+Klimat,Extreme weather,Ekstremalne zjawiska pogodowe,Extreme weather events are becoming more frequent due to climate change.,Ekstremalne zjawiska pogodowe stają się coraz częstsze z powodu zmiany klimatu.,B2
+Klimat,Heatwave,Fala upałów,Heatwaves can have serious health impacts on vulnerable populations.,Fale upałów mogą mieć poważne skutki zdrowotne dla wrażliwych grup.,B2
+Klimat,Melting glaciers,Topniejące lodowce,Melting glaciers contribute to rising sea levels.,Topniejące lodowce przyczyniają się do wzrostu poziomu mórz.,B2
+Klimat,Carbon dioxide,Dwutlenek węgla,Carbon dioxide is a major greenhouse gas.,Dwutlenek węgla jest głównym gazem cieplarnianym.,B2
+Klimat,Green energy,Zielona energia,Green energy sources include wind and solar power.,Źródła zielonej energii obejmują energię wiatrową i słoneczną.,B2
+Klimat,Environmental impact,Wpływ na środowisko,The environmental impact of industrial activities can be significant.,Wpływ działalności przemysłowej na środowisko może być znaczący.,B2
+Klimat,Climate adaptation,Adaptacja do zmiany klimatu,Climate adaptation involves adjusting to the effects of climate change.,Adaptacja do zmiany klimatu polega na dostosowywaniu się do skutków zmiany klimatu.,B2
+Klimat,Climate mitigation,Łagodzenie zmiany klimatu,Climate mitigation includes efforts to reduce greenhouse gas emissions.,Łagodzenie zmiany klimatu obejmuje wysiłki na rzecz redukcji emisji gazów cieplarnianych.,B2
+Klimat,Renewable resources,Zasoby odnawialne,Renewable resources can help reduce our reliance on fossil fuels.,Zasoby odnawialne mogą pomóc w zmniejszeniu naszego uzależnienia od paliw kopalnych.,B2
+Klimat,Green technology,Zielona technologia,Green technology aims to create sustainable solutions for energy and waste management.,Zielona technologia ma na celu stworzenie zrównoważonych rozwiązań dla zarządzania energią i odpadami.,B2
+Klimat,Carbon neutral,Neutralny węglowo,Becoming carbon neutral involves offsetting carbon emissions through various measures.,Bycie neutralnym węglowo polega na kompensowaniu emisji węgla poprzez różne środki.,B2
+Klimat,Urban heat island,Wyspa ciepła,Urban heat islands occur when cities experience higher temperatures than surrounding areas.,"Wyspy ciepła występują, gdy miasta doświadczają wyższych temperatur niż otaczające je obszary.",B2
+Klimat,Natural disaster,Klęska żywiołowa,"Natural disasters, such as hurricanes and floods, can be intensified by climate change.","Klęski żywiołowe, takie jak huragany i powodzie, mogą być zaostrzone przez zmiany klimatu.",B2
+Klimat,Sustainable development,Zrównoważony rozwój,Sustainable development seeks to meet the needs of the present without compromising future generations.,Zrównoważony rozwój dąży do zaspokojenia potrzeb teraźniejszości bez kompromisowania potrzeb przyszłych pokoleń.,B2
+Klimat,Air pollution,Zanieczyszczenie powietrza,Air pollution from vehicles and industries can exacerbate climate change.,Zanieczyszczenie powietrza spowodowane przez pojazdy i przemysł może pogłębiać zmiany klimatu.,B2
+Klimat,Natural resources,Surowce naturalne,Protecting natural resources is essential for future generations.,Ochrona surowców naturalnych jest niezbędna dla przyszłych pokoleń.,B2
+Klimat,Hydroponics,Hydroponika,Hydroponics is a method of growing plants without soil.,Hydroponika to metoda uprawy roślin bez gleby.,B2
+Klimat,Carbon sequestration,Sekwestracja węgla,Carbon sequestration involves capturing and storing carbon dioxide from the atmosphere.,Sekwestracja węgla polega na wychwytywaniu i przechowywaniu dwutlenku węgla z atmosfery.,B2
+Klimat,Greenhouse effect,Efekt cieplarniany,The greenhouse effect is a natural process that warms the Earth’s surface.,"Efekt cieplarniany to naturalny proces, który ociepla powierzchnię Ziemi.",B2
+Pogoda,Weather,Pogoda,The weather is sunny today.,Pogoda jest dzisiaj słoneczna.,B1
+Pogoda,Rain,Deszcz,It is going to rain later this afternoon.,Ma padać deszcz później tego popołudnia.,B1
+Pogoda,Sunny,Słoneczny,We had a sunny day at the beach.,Mieliśmy słoneczny dzień na plaży.,B1
+Pogoda,Cloudy,Pochmurny,The sky is cloudy and gray.,Niebo jest pochmurne i szare.,B1
+Pogoda,Windy,Wietrznie,It’s very windy outside today.,Dzisiaj jest bardzo wietrznie na zewnątrz.,B1
+Pogoda,Snow,Śnieg,There is a lot of snow on the ground.,Na ziemi leży dużo śniegu.,B1
+Pogoda,Temperature,Temperatura,The temperature dropped below freezing last night.,Temperatura spadła poniżej zera zeszłej nocy.,B1
+Pogoda,Forecast,Prognoza pogody,The weather forecast predicts thunderstorms this evening.,Prognoza pogody przewiduje burze wieczorem.,B1
+Pogoda,Humidity,Wilgotność,"The humidity is high, making it feel warmer than it is.","Wilgotność jest wysoka, co sprawia, że wydaje się cieplej niż jest.",B1
+Pogoda,Storm,Burza,"A storm is approaching, so we should stay indoors.","Nadchodzi burza, więc powinniśmy zostać w środku.",B1
+Pogoda,Thunder,Grzmot,We heard thunder during the night.,Słyszeliśmy grzmot w nocy.,B1
+Pogoda,Lightning,Błyskawica,The lightning was very bright during the storm.,Błyskawica była bardzo jasna podczas burzy.,B1
+Pogoda,Fog,Mgła,The fog is so thick that I can barely see the road.,"Mgła jest tak gęsta, że ledwo widzę drogę.",B1
+Pogoda,Drizzle,Mżawka,It’s just a light drizzle this morning.,Rano jest tylko lekka mżawka.,B1
+Pogoda,Overcast,Zachmurzenie,"The sky is overcast, so it might rain later.","Niebo jest zachmurzone, więc może padać później.",B1
+Pogoda,Clear,Czysty,"The sky is clear, with no clouds in sight.","Niebo jest czyste, bez chmur w zasięgu wzroku.",B1
+Pogoda,Frost,Mróz,There was a frost on the car windows this morning.,Rano na szybach samochodu był mróz.,B1
+Pogoda,Gust,Poryw wiatru,We felt a sudden gust of wind while walking.,Poczułem nagły poryw wiatru podczas spaceru.,B1
+Pogoda,Chilly,Chłodny,"It feels a bit chilly today, so I need a jacket.","Dziś jest trochę chłodno, więc potrzebuję kurtki.",B1
+Pogoda,Heatwave,Fala upałów,We are experiencing a heatwave this week.,W tym tygodniu mamy falę upałów.,B1
+Pogoda,Thunderstorm,Burza z piorunami,The thunderstorm caused a power outage in our area.,Burza z piorunami spowodowała przerwę w dostawie prądu w naszej okolicy.,B1
+Pogoda,Rainy,Deszczowy,The weather is rainy all week long.,Pogoda jest deszczowa przez cały tydzień.,B1
+Pogoda,Warm,Ciepły,The weather is warm and pleasant today.,Pogoda jest dzisiaj ciepła i przyjemna.,B1
+Pogoda,Icy,Śliski,The roads are icy and dangerous this morning.,Drogi są śliskie i niebezpieczne dzisiaj rano.,B1
+Pogoda,Mild,Łagodny,We are having a mild winter this year.,Mamy łagodną zimę w tym roku.,B1
+Pogoda,Barometer,Barometr,"The barometer is dropping, which might indicate a change in weather.","Barometr spada, co może wskazywać na zmianę pogody.",B1
+Pogoda,Blizzard,Śnieżyca,The blizzard made travel very difficult.,Śnieżyca bardzo utrudniła podróżowanie.,B1
+Pogoda,Weather pattern,Wzór pogodowy,The weather pattern this month has been unusual.,Wzór pogodowy w tym miesiącu był nietypowy.,B1
+Pogoda,Sunshine,Słońce (promienie),We enjoyed the warm sunshine on the beach.,Cieszyliśmy się ciepłymi promieniami słońca na plaży.,B1
+Pogoda,Wet,Mokry,The ground is wet after last night's rain.,Ziemia jest mokra po wczorajszym deszczu.,B1
+Zdrowie,Health,Zdrowie,Maintaining good health requires regular exercise.,Utrzymanie dobrego zdrowia wymaga regularnych ćwiczeń.,B1
+Zdrowie,Fitness,Sprawność,She goes to the gym to improve her fitness.,"Chodzi na siłownię, aby poprawić swoją sprawność.",B1
+Zdrowie,Exercise,Ćwiczenia,Regular exercise is important for a healthy lifestyle.,Regularne ćwiczenia są ważne dla zdrowego stylu życia.,B1
+Zdrowie,Diet,Dieta,"A balanced diet includes fruits, vegetables, and whole grains.","Zrównoważona dieta obejmuje owoce, warzywa i pełnoziarniste produkty.",B1
+Zdrowie,Nutrition,Odżywianie,Good nutrition is essential for overall well-being.,Dobre odżywianie jest niezbędne dla ogólnego dobrego samopoczucia.,B1
+Zdrowie,Doctor,Lekarz,You should see a doctor if you’re feeling unwell.,"Powinieneś udać się do lekarza, jeśli źle się czujesz.",B1
+Zdrowie,Patient,Pacjent,The patient needs to follow the doctor's instructions.,Pacjent musi przestrzegać instrukcji lekarza.,B1
+Zdrowie,Symptom,Objaw,Common symptoms of a cold include a runny nose and sore throat.,Typowe objawy przeziębienia to katar i ból gardła.,B1
+Zdrowie,Prescription,Recepta,The doctor wrote a prescription for my medication.,Lekarz wypisał receptę na moje leki.,B1
+Zdrowie,Recovery,Rekonwalescencja,It took several weeks for her to recover from the surgery.,Powrót do zdrowia po operacji zajął jej kilka tygodni.,B1
+Zdrowie,Allergy,Alergia,He has an allergy to peanuts and must avoid them.,Ma alergię na orzeszki ziemne i musi ich unikać.,B1
+Zdrowie,Immunity,Odporność,Vaccines help to boost your immunity against diseases.,Szczepionki pomagają zwiększyć odporność na choroby.,B1
+Zdrowie,Chronic,Przewlekły,She suffers from a chronic condition that requires ongoing treatment.,"Cierpi na przewlekłą chorobę, która wymaga stałego leczenia.",B1
+Zdrowie,Infection,Infekcja,An infection can be treated with antibiotics.,Infekcję można leczyć antybiotykami.,B1
+Zdrowie,Pain,Ból,The pain in his back is getting worse.,Ból w jego plecach się nasila.,B1
+Zdrowie,Vaccination,Szczepienie,Vaccination is important to prevent the spread of diseases.,"Szczepienie jest ważne, aby zapobiec rozprzestrzenianiu się chorób.",B1
+Zdrowie,Well-being,Samopoczucie,Mental well-being is as important as physical health.,Samopoczucie psychiczne jest równie ważne jak zdrowie fizyczne.,B1
+Zdrowie,Consultation,Konsultacja,She made an appointment for a consultation with a specialist.,Umówiła się na konsultację ze specjalistą.,B1
+Zdrowie,Diagnosis,Diagnoza,The diagnosis revealed that he had a sinus infection.,"Diagnoza wykazała, że ma zapalenie zatok.",B1
+Zdrowie,Surgery,Operacja,He needs to undergo surgery to repair the damaged ligament.,"Musi przejść operację, aby naprawić uszkodzony więzadło.",B1
+Zdrowie,Treatment,Leczenie,The treatment for his condition involves physical therapy.,Leczenie jego schorzenia obejmuje terapię fizyczną.,B1
+Zdrowie,Check-up,Kontrola,Regular check-ups help to monitor your health.,Regularne kontrole pomagają monitorować zdrowie.,B1
+Zdrowie,Disease,Choroba,Diabetes is a chronic disease that affects blood sugar levels.,"Cukrzyca to przewlekła choroba, która wpływa na poziom cukru we krwi.",B1
+Zdrowie,Medication,Lek,The doctor prescribed medication to help manage the symptoms.,"Lekarz przepisał lek, aby pomóc w zarządzaniu objawami.",B1
+Zdrowie,Therapy,Terapia,Physical therapy can help with rehabilitation after injury.,Terapia fizyczna może pomóc w rehabilitacji po urazie.,B1
+Zdrowie,Healthy,Zdrowy,Eating a healthy diet can improve your overall health.,Jedzenie zdrowej diety może poprawić ogólne zdrowie.,B1
+Zdrowie,Emergency,Nagły wypadek,"In case of an emergency, call 911 immediately.","W przypadku nagłego wypadku, natychmiast zadzwoń pod numer 911.",B1
+Zdrowie,Painkiller,Środek przeciwbólowy,He took a painkiller to relieve the headache.,"Wziął środek przeciwbólowy, aby złagodzić ból głowy.",B1
+Zdrowie,Health care,Opieka zdrowotna,Good health care is essential for treating illnesses effectively.,Dobra opieka zdrowotna jest niezbędna do skutecznego leczenia chorób.,B1
+Zdrowie,Symptoms,Objawy,The symptoms of the flu include fever and body aches.,Objawy grypy obejmują gorączkę i bóle ciała.,B1
+Technologia,Technology,Technologia,Technology is advancing rapidly in today's world.,Technologia szybko się rozwija w dzisiejszym świecie.,B1
+Technologia,Computer,Komputer,She uses her computer for work and leisure.,Używa swojego komputera do pracy i rozrywki.,B1
+Technologia,Software,Oprogramowanie,The software needs to be updated to improve performance.,"Oprogramowanie musi być zaktualizowane, aby poprawić wydajność.",B1
+Technologia,Hardware,Sprzęt komputerowy,The computer's hardware is very powerful.,Sprzęt komputerowy jest bardzo wydajny.,B1
+Technologia,Internet,Internet,The internet allows us to communicate instantly with others.,Internet pozwala nam natychmiast komunikować się z innymi.,B1
+Technologia,Website,Strona internetowa,I visited their website to learn more about their services.,"Odwiedziłem ich stronę internetową, aby dowiedzieć się więcej o ich usługach.",B1
+Technologia,Application,Aplikacja,There is a new application for tracking fitness progress.,Jest nowa aplikacja do śledzenia postępów w fitnessie.,B1
+Technologia,Digital,Cyfrowy,Digital technology is changing the way we live.,"Technologia cyfrowa zmienia sposób, w jaki żyjemy.",B1
+Technologia,Network,Sieć,The network connection was lost during the meeting.,Połączenie sieciowe zostało utracone podczas spotkania.,B1
+Technologia,Email,E-mail,I sent you an email with the details of the meeting.,Wysłałem Ci e-mail z szczegółami spotkania.,B1
+Technologia,Smartphone,Smartfon,Her smartphone has many useful features.,Jej smartfon ma wiele przydatnych funkcji.,B1
+Technologia,Tablet,Tablet,He reads books on his tablet.,Czyta książki na swoim tablecie.,B1
+Technologia,Password,Hasło,Remember to change your password regularly for security.,"Pamiętaj, aby regularnie zmieniać swoje hasło dla bezpieczeństwa.",B1
+Technologia,Cloud computing,Chmura obliczeniowa,Cloud computing allows for storing data online.,Chmura obliczeniowa umożliwia przechowywanie danych w sieci.,B1
+Technologia,Update,Aktualizacja,You need to update your system to the latest version.,Musisz zaktualizować swój system do najnowszej wersji.,B1
+Technologia,Virus,Wirus,The computer caught a virus and needs to be repaired.,Komputer złapał wirusa i potrzebuje naprawy.,B1
+Technologia,Bug,Błąd,The software has a bug that causes it to crash.,"Oprogramowanie ma błąd, który powoduje jego awarię.",B1
+Technologia,Backup,Kopia zapasowa,It’s important to create regular backups of your files.,"Ważne jest, aby regularnie tworzyć kopie zapasowe swoich plików.",B1
+Technologia,Encryption,Szyfrowanie,Encryption helps to protect sensitive information.,Szyfrowanie pomaga chronić wrażliwe informacje.,B1
+Technologia,Database,Baza danych,The database stores all the information for the company.,Baza danych przechowuje wszystkie informacje dla firmy.,B1
+Technologia,User interface,Interfejs użytkownika,The user interface of the new app is very intuitive.,Interfejs użytkownika nowej aplikacji jest bardzo intuicyjny.,B1
+Technologia,Server,Serwer,"The server crashed, causing the website to go offline.","Serwer uległ awarii, co spowodowało, że strona internetowa przestała działać.",B1
+Technologia,Webpage,Strona internetowa,The webpage took a long time to load.,Strona internetowa ładowała się długo.,B1
+Technologia,Browser,Przeglądarka,She uses a web browser to access the internet.,Używa przeglądarki internetowej do korzystania z internetu.,B1
+Technologia,Link,Link,Click the link to visit the website.,"Kliknij link, aby odwiedzić stronę internetową.",B1
+Technologia,Download,Pobieranie,You can download the file from the website.,Możesz pobrać plik ze strony internetowej.,B1
+Technologia,Upload,Przesyłanie,He uploaded the documents to the cloud storage.,Przesłał dokumenty do chmury.,B1
+Technologia,Technology,Technologia,Modern technology offers many conveniences.,Nowoczesna technologia oferuje wiele udogodnień.,B1
+Technologia,Robot,Robot,The factory uses robots to assemble the products.,Fabryka używa robotów do montażu produktów.,B1
+Technologia,Artificial Intelligence,Sztuczna inteligencja,Artificial intelligence is used in many applications today.,Sztuczna inteligencja jest używana w wielu aplikacjach dzisiaj.,B1
+Podróże,Travel,Podróż,I love to travel to new places every year.,Uwielbiam podróżować do nowych miejsc co roku.,B1
+Podróże,Destination,Cel podróży,Our destination is Paris.,Naszym celem podróży jest Paryż.,B1
+Podróże,Journey,Podróż,The journey from New York to Los Angeles takes about 6 hours.,Podróż z Nowego Jorku do Los Angeles trwa około 6 godzin.,B1
+Podróże,Tourist,Turysta,Many tourists visit this city during the summer.,Wiele turystów odwiedza to miasto latem.,B1
+Podróże,Itinerary,Plan podróży,We need to create an itinerary for our trip to Italy.,Musimy stworzyć plan podróży na naszą wycieczkę do Włoch.,B1
+Podróże,Sightseeing,Zwiedzanie,Sightseeing in Rome is very exciting and interesting.,Zwiedzanie Rzymu jest bardzo ekscytujące i interesujące.,B1
+Podróże,Accommodation,Zakwaterowanie,We booked accommodation in a small hotel near the beach.,Zarezerwowaliśmy zakwaterowanie w małym hotelu blisko plaży.,B1
+Podróże,Flight,Lot,Our flight to Tokyo was delayed due to bad weather.,Nasz lot do Tokio został opóźniony z powodu złej pogody.,B1
+Podróże,Passport,Paszport,Don’t forget to bring your passport when traveling abroad.,Nie zapomnij zabrać swojego paszportu podczas podróży za granicę.,B1
+Podróże,Visa,Wiza,We need a visa to visit the country.,"Potrzebujemy wizy, aby odwiedzić ten kraj.",B1
+Podróże,Luggage,Bagaż,My luggage was lost during the flight.,Mój bagaż został zagubiony podczas lotu.,B1
+Podróże,Customs,Odprawa celna,We had to go through customs at the airport.,Musieliśmy przejść odprawę celną na lotnisku.,B1
+Podróże,Ticket,Bilet,I bought a ticket for the museum online.,Kupiłem bilet do muzeum online.,B1
+Podróże,Guide,Przewodnik,A local guide showed us around the city.,Miejscowy przewodnik pokazał nam miasto.,B1
+Podróże,Excursion,Wycieczka,We went on a day-long excursion to the nearby islands.,Pojechaliśmy na całodniową wycieczkę na pobliskie wyspy.,B1
+Podróże,Reservation,Rezerwacja,I made a reservation for dinner at a fancy restaurant.,Zrobiłem rezerwację na kolację w eleganckiej restauracji.,B1
+Podróże,Adventure,Przygoda,The trip was full of adventure and excitement.,Podróż była pełna przygód i ekscytacji.,B1
+Podróże,Travel Agency,Biuro podróży,We booked our vacation through a travel agency.,Zarezerwowaliśmy nasze wakacje przez biuro podróży.,B1
+Podróże,Cruise,Rejs,We took a cruise around the Mediterranean Sea.,Wzięliśmy rejs po Morzu Śródziemnym.,B1
+Podróże,Travel Insurance,Ubezpieczenie podróżne,It’s wise to purchase travel insurance before a trip.,Warto kupić ubezpieczenie podróżne przed wyjazdem.,B1
+Podróże,Backpack,Plecak,She packed her backpack for the hiking trip.,Spakowała swój plecak na wycieczkę górską.,B1
+Podróże,Guidebook,Przewodnik turystyczny,I bought a guidebook to learn more about the destination.,"Kupiłem przewodnik turystyczny, aby dowiedzieć się więcej o celu podróży.",B1
+Podróże,Souvenir,Pamiątka,I bought a souvenir for my friend from the trip.,Kupiłem pamiątkę dla mojego przyjaciela z podróży.,B1
+Podróże,Hostel,Hostel,We stayed in a hostel to save money during our trip.,"Zatrzymaliśmy się w hostelu, aby zaoszczędzić pieniądze podczas podróży.",B1
+Podróże,Travel,Podróż,Traveling by train is more comfortable than by bus.,Podróżowanie pociągiem jest wygodniejsze niż autobusem.,B1
+Podróże,Accommodation,Zakwaterowanie,Accommodation options in the city range from luxury hotels to hostels.,Opcje zakwaterowania w mieście obejmują od luksusowych hoteli po hostele.,B1
+Podróże,Journey,Podróż,The journey was long but rewarding.,"Podróż była długa, ale satysfakcjonująca.",B1
+Podróże,Departure,Wyjazd,Our departure time is at 8 AM.,Czas naszego wyjazdu to 8 rano.,B1
+Podróże,Arrival,Przyjazd,We expect to arrive at our destination by noon.,Oczekujemy przyjazdu do celu podróży do południa.,B1
+Podróże,Tour,Wycieczka,The city tour covered all the major landmarks.,Wycieczka po mieście obejmowała wszystkie główne atrakcje.,B1
+Psychologia,Psychology,Psychologia,Psychology is the study of the mind and behavior.,Psychologia to nauka o umyśle i zachowaniu.,B1
+Psychologia,Behavior,Zachowanie,His behavior in stressful situations can be unpredictable.,Jego zachowanie w stresujących sytuacjach może być nieprzewidywalne.,B1
+Psychologia,Emotion,Emocja,She felt a range of emotions after receiving the news.,Po otrzymaniu wiadomości czuła szereg emocji.,B1
+Psychologia,Mental health,Zdrowie psychiczne,Good mental health is important for overall well-being.,Dobre zdrowie psychiczne jest ważne dla ogólnego samopoczucia.,B1
+Psychologia,Therapy,Terapia,Therapy can help people deal with their personal issues.,Terapia może pomóc ludziom radzić sobie z osobistymi problemami.,B1
+Psychologia,Counseling,Doradztwo,She went for counseling to improve her coping skills.,"Poszła na doradztwo, aby poprawić swoje umiejętności radzenia sobie.",B1
+Psychologia,Stress,Stres,Stress can affect both physical and mental health.,"Stres może wpływać zarówno na zdrowie fizyczne, jak i psychiczne.",B1
+Psychologia,Anxiety,Lęk,He experienced anxiety before giving his presentation.,Doświadczył lęku przed wygłoszeniem swojej prezentacji.,B1
+Psychologia,Depression,Depresja,Depression can cause feelings of sadness and hopelessness.,Depresja może powodować uczucia smutku i beznadziejności.,B1
+Psychologia,Self-esteem,Pewność siebie,Building self-esteem is important for personal growth.,Budowanie pewności siebie jest ważne dla osobistego rozwoju.,B1
+Psychologia,Cognition,Poznanie,Cognition involves processes such as thinking and remembering.,Poznanie obejmuje procesy takie jak myślenie i pamiętanie.,B1
+Psychologia,Motivation,Motywacja,Motivation can help you achieve your goals.,Motywacja może pomóc w osiąganiu celów.,B1
+Psychologia,Addiction,Uzależnienie,Addiction can have serious effects on a person's life.,Uzależnienie może mieć poważne skutki dla życia osoby.,B1
+Psychologia,Mindfulness,Uważność,Mindfulness involves paying attention to the present moment.,Uważność polega na skupieniu uwagi na teraźniejszym momencie.,B1
+Psychologia,Therapist,Terapeuta,The therapist helped her work through her challenges.,Terapeuta pomógł jej poradzić sobie z wyzwaniami.,B1
+Psychologia,Psychiatrist,Psychiatra,A psychiatrist can prescribe medication for mental health issues.,Psychiatra może przepisać leki na problemy ze zdrowiem psychicznym.,B1
+Psychologia,Empathy,Empatia,Empathy is the ability to understand and share the feelings of others.,Empatia to zdolność do rozumienia i dzielenia się uczuciami innych.,B1
+Psychologia,Self-care,Dbanie o siebie,Self-care is important for maintaining good mental health.,Dbanie o siebie jest ważne dla utrzymania dobrego zdrowia psychicznego.,B1
+Psychologia,Trauma,Trauma,Trauma can have long-lasting effects on a person's mental health.,Trauma może mieć długotrwałe skutki dla zdrowia psychicznego osoby.,B1
+Psychologia,Support,Wsparcie,Having a strong support system is crucial for overcoming challenges.,Posiadanie silnego systemu wsparcia jest kluczowe dla pokonywania trudności.,B1
+Psychologia,Recovery,Regeneracja,Recovery from mental health issues can take time.,Regeneracja po problemach ze zdrowiem psychicznym może zająć trochę czasu.,B1
+Psychologia,Self-awareness,Świadomość siebie,Self-awareness helps you understand your own emotions and behavior.,Świadomość siebie pomaga zrozumieć własne emocje i zachowanie.,B1
+Psychologia,Resilience,Odporność,Resilience allows people to bounce back from difficult situations.,Odporność pozwala ludziom wracać do siebie po trudnych sytuacjach.,B1
+Psychologia,Diagnosis,Diagnoza,The diagnosis revealed that she had an anxiety disorder.,"Diagnoza wykazała, że miała zaburzenia lękowe.",B1
+Psychologia,Intervention,Interwencja,Early intervention can prevent more serious mental health issues.,Wczesna interwencja może zapobiec poważniejszym problemom ze zdrowiem psychicznym.,B1
+Psychologia,Behavioral,Zachowaniowy,Behavioral therapy focuses on changing harmful behaviors.,Terapia behawioralna koncentruje się na zmianie szkodliwych zachowań.,B1
+Psychologia,Cognitive,Poznawczy,Cognitive therapy aims to change negative thought patterns.,Terapia poznawcza ma na celu zmianę negatywnych wzorców myślenia.,B1
+Psychologia,Stress management,Zarządzanie stresem,Stress management techniques can improve overall well-being.,Techniki zarządzania stresem mogą poprawić ogólne samopoczucie.,B1
+Psychologia,Well-being,Dobrostan,Mental well-being is as important as physical health.,Dobrostan psychiczny jest tak samo ważny jak zdrowie fizyczne.,B1
+Psychologia,Counselor,Doradca,The counselor provided valuable advice for handling stress.,Doradca udzielił cennych rad dotyczących radzenia sobie ze stresem.,B1
+Klimat,Climate,Klimat,The climate in tropical regions is usually hot and humid.,Klimat w regionach tropikalnych jest zazwyczaj gorący i wilgotny.,B1
+Klimat,Weather,Pogoda,The weather today is sunny and warm.,Dzisiejsza pogoda jest słoneczna i ciepła.,B1
+Klimat,Temperature,Temperatura,The temperature is expected to rise over the weekend.,Temperatura ma wzrosnąć w ciągu weekendu.,B1
+Klimat,Precipitation,Opady,We are expecting heavy precipitation this week.,Oczekujemy intensywnych opadów w tym tygodniu.,B1
+Klimat,Humidity,Wilgotność,High humidity can make the air feel warmer.,"Wysoka wilgotność może sprawić, że powietrze wydaje się cieplejsze.",B1
+Klimat,Forecast,Prognoza pogody,The weather forecast predicts rain for tomorrow.,Prognoza pogody przewiduje deszcz na jutro.,B1
+Klimat,Season,Sezon,Summer is the hottest season of the year.,Lato jest najgorętszą porą roku.,B1
+Klimat,Climate change,Zmiana klimatu,Climate change is causing more frequent extreme weather events.,Zmiana klimatu powoduje coraz częstsze ekstremalne zjawiska pogodowe.,B1
+Klimat,Drought,Susza,A prolonged drought can lead to water shortages.,Długa susza może prowadzić do niedoborów wody.,B1
+Klimat,Flood,Powódź,The heavy rain caused a flood in the low-lying areas.,Intensywne opady deszczu spowodowały powódź w obszarach nisko położonych.,B1
+Klimat,Temperature rise,Wzrost temperatury,Global temperature rise is a major concern for scientists.,Wzrost globalnej temperatury jest poważnym zmartwieniem dla naukowców.,B1
+Klimat,Global warming,Ocieplenie klimatu,Global warming is affecting ice caps around the world.,Ocieplenie klimatu wpływa na czapy lodowe na całym świecie.,B1
+Klimat,Greenhouse gases,Gazy cieplarniane,Greenhouse gases trap heat in the atmosphere.,Gazy cieplarniane zatrzymują ciepło w atmosferze.,B1
+Klimat,Ecosystem,Ekosystem,Changes in climate can disrupt local ecosystems.,Zmiany klimatu mogą zakłócać lokalne ekosystemy.,B1
+Klimat,Air quality,Jakość powietrza,Poor air quality can affect people's health.,Zła jakość powietrza może wpływać na zdrowie ludzi.,B1
+Klimat,Carbon footprint,Ślad węglowy,Reducing your carbon footprint can help combat climate change.,Ograniczenie swojego śladu węglowego może pomóc w walce ze zmianami klimatu.,B1
+Klimat,Renewable energy,Energia odnawialna,Using renewable energy sources can reduce greenhouse gas emissions.,Korzystanie z odnawialnych źródeł energii może zmniejszyć emisję gazów cieplarnianych.,B1
+Klimat,Sustainability,Zrównoważony rozwój,Sustainability involves using resources in a way that preserves them for future generations.,"Zrównoważony rozwój polega na korzystaniu z zasobów w sposób, który zapewnia ich zachowanie dla przyszłych pokoleń.",B1
+Klimat,Melting,Topniejący,The melting of polar ice is a visible sign of global warming.,Topnienie lodowców polarnych jest widocznym znakiem ocieplenia klimatu.,B1
+Klimat,Extreme weather,Ekstremalne zjawiska pogodowe,Extreme weather events are becoming more common.,Ekstremalne zjawiska pogodowe stają się coraz bardziej powszechne.,B1
+Klimat,Sea level rise,Wzrost poziomu morza,Sea level rise threatens coastal communities.,Wzrost poziomu morza zagraża społecznościom nadbrzeżnym.,B1
+Klimat,Weather patterns,Wzorce pogodowe,Changing weather patterns can affect agriculture.,Zmieniające się wzorce pogodowe mogą wpływać na rolnictwo.,B1
+Klimat,Green spaces,Zielone przestrzenie,Green spaces in urban areas can help reduce heat islands.,Zielone przestrzenie w miastach mogą pomóc w redukcji wysp ciepła.,B1
+Klimat,Biodiversity,Biodiversytet,Protecting biodiversity is crucial for a healthy environment.,Ochrona bioróżnorodności jest kluczowa dla zdrowego środowiska.,B1
+Klimat,Ozone layer,Warstwa ozonowa,The ozone layer protects the Earth from harmful UV radiation.,Warstwa ozonowa chroni Ziemię przed szkodliwym promieniowaniem UV.,B1
+Klimat,Climate zone,Strefa klimatyczna,Different climate zones have unique weather conditions.,Różne strefy klimatyczne mają unikalne warunki pogodowe.,B1
+Klimat,Conservation,Ochrona środowiska,Conservation efforts aim to protect natural resources.,Wysiłki ochrony środowiska mają na celu ochronę zasobów naturalnych.,B1
+Klimat,Greenhouse effect,Efekt cieplarniany,The greenhouse effect is a natural process that warms the Earth.,"Efekt cieplarniany to naturalny proces, który ociepla Ziemię.",B1
+Klimat,Temperature fluctuation,Wahania temperatury,Temperature fluctuations can impact various ecosystems.,Wahania temperatury mogą wpływać na różne ekosystemy.,B1
+Klimat,Climate action,Działania na rzecz klimatu,Climate action includes efforts to reduce emissions and protect the environment.,Działania na rzecz klimatu obejmują wysiłki na rzecz redukcji emisji i ochrony środowiska.,B1
+Pogoda,Meteorology,Meteorologia,Meteorology involves the study of atmospheric phenomena.,Meteorologia obejmuje badanie zjawisk atmosferycznych.,C1
+Pogoda,Precipitation,Opady,"Precipitation can include rain, snow, sleet, and hail.","Opady mogą obejmować deszcz, śnieg, deszcz ze śniegiem i grad.",C1
+Pogoda,Atmospheric pressure,Ciśnienie atmosferyczne,Atmospheric pressure varies with altitude and weather conditions.,Ciśnienie atmosferyczne zmienia się w zależności od wysokości i warunków pogodowych.,C1
+Pogoda,Humidity,Wilgotność,High humidity can exacerbate the feeling of heat.,Wysoka wilgotność może nasilać uczucie ciepła.,C1
+Pogoda,Barometer,Barometr,A barometer measures atmospheric pressure to forecast weather.,"Barometr mierzy ciśnienie atmosferyczne, aby prognozować pogodę.",C1
+Pogoda,Isobar,Izobara,Isobars are lines on a weather map that connect areas of equal pressure.,"Izobary to linie na mapie pogodowej, które łączą obszary o równym ciśnieniu.",C1
+Pogoda,Cyclone,Cyklon,A cyclone is a large-scale air mass that rotates around a strong center of low pressure.,"Cyklon to masyw powietrza dużej skali, który kręci się wokół silnego centrum niskiego ciśnienia.",C1
+Pogoda,Anticyclone,Antycyklon,An anticyclone is a system of high pressure where air descends.,"Antycyklon to system wysokiego ciśnienia, w którym powietrze opada.",C1
+Pogoda,Dew point,Punkt rosy,The dew point is the temperature at which air becomes saturated with moisture.,"Punkt rosy to temperatura, w której powietrze staje się nasycone wilgocią.",C1
+Pogoda,Forecast,Prognoza pogody,Accurate weather forecasting requires sophisticated technology.,Dokładne prognozowanie pogody wymaga zaawansowanej technologii.,C1
+Pogoda,Weather front,Front pogodowy,A weather front is a boundary separating two air masses of different temperatures.,Front pogodowy to granica oddzielająca dwa masy powietrza o różnych temperaturach.,C1
+Pogoda,Thunderstorm,Burza,"Thunderstorms are characterized by thunder, lightning, and heavy rain.","Burze charakteryzują się grzmotem, błyskawicami i intensywnymi opadami deszczu.",C1
+Pogoda,Tornado,Tornado,A tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground.,"Tornado to szybko wirująca kolumna powietrza, która rozciąga się od burzy do ziemi.",C1
+Pogoda,Hurricane,Huragan,Hurricanes are powerful tropical storms with strong winds and heavy rain.,Huragany to potężne tropikalne burze z silnymi wiatrami i intensywnymi opadami deszczu.,C1
+Pogoda,Blizzard,Zamieć śnieżna,A blizzard is a severe snowstorm with strong winds and low visibility.,Zamieć śnieżna to poważna burza śnieżna z silnymi wiatrami i niską widocznością.,C1
+Pogoda,Heatwave,Fala upałów,A heatwave is a prolonged period of excessively hot weather.,Fala upałów to przedłużony okres nadmiernie gorącej pogody.,C1
+Pogoda,Frost,Mróz,Frost occurs when the temperature falls below freezing and ice forms on surfaces.,"Mróz występuje, gdy temperatura spada poniżej zera i lód tworzy się na powierzchniach.",C1
+Pogoda,Wind chill,Odczuwalna temperatura,Wind chill is the perceived decrease in temperature felt by the body due to wind.,Odczuwalna temperatura to postrzegany spadek temperatury odczuwany przez ciało z powodu wiatru.,C1
+Pogoda,Cloud cover,Pokrycie chmurami,Cloud cover can significantly affect the temperature and visibility.,Pokrycie chmurami może znacząco wpływać na temperaturę i widoczność.,C1
+Pogoda,Visibility,Widoczność,Poor visibility can make driving conditions hazardous.,"Słaba widoczność może sprawić, że warunki jazdy będą niebezpieczne.",C1
+Pogoda,Weather pattern,Wzorzec pogodowy,Identifying weather patterns helps meteorologists predict future conditions.,Identyfikowanie wzorców pogodowych pomaga meteorologom przewidywać przyszłe warunki.,C1
+Pogoda,Jet stream,Prąd strumieniowy,The jet stream is a fast-flowing ribbon of air high in the atmosphere that influences weather.,"Prąd strumieniowy to szybko płynąca wstęga powietrza wysoko w atmosferze, która wpływa na pogodę.",C1
+Pogoda,El Niño,El Niño,El Niño is a climate phenomenon characterized by the warming of the central and eastern tropical Pacific Ocean.,El Niño to zjawisko klimatyczne charakteryzujące się ociepleniem centralnej i wschodniej części tropikalnego Oceanu Spokojnego.,C1
+Pogoda,La Niña,La Niña,"La Niña is the counterpart to El Niño, marked by cooler than average sea surface temperatures in the central and eastern Pacific.","La Niña to przeciwnik El Niño, charakteryzujący się niższymi niż średnie temperaturami powierzchni oceanu w centralnej i wschodniej części Pacyfiku.",C1
+Pogoda,Solar radiation,Promieniowanie słoneczne,Solar radiation influences temperature and weather patterns on Earth.,Promieniowanie słoneczne wpływa na temperaturę i wzorce pogodowe na Ziemi.,C1
+Pogoda,Tropical storm,Burza tropikalna,Tropical storms are less intense than hurricanes but can still cause significant damage.,"Burze tropikalne są mniej intensywne niż huragany, ale mogą nadal powodować znaczące szkody.",C1
+Pogoda,Air mass,Masa powietrza,An air mass is a large volume of air with uniform temperature and humidity characteristics.,Masa powietrza to duża objętość powietrza o jednorodnych cechach temperatury i wilgotności.,C1
+Pogoda,Rain shadow,Cień deszczowy,A rain shadow occurs when mountains block the passage of rain-producing weather systems.,"Cień deszczowy występuje, gdy góry blokują przejście systemów pogodowych przynoszących deszcz.",C1
+Pogoda,Microclimate,Mikroklimat,A microclimate is a local climate that differs from the surrounding area.,"Mikroklimat to lokalny klimat, który różni się od otaczającego obszaru.",C1
+Pogoda,Weather anomaly,Anomalia pogodowa,Weather anomalies are deviations from the typical weather patterns for a given region.,Anomalie pogodowe to odchylenia od typowych wzorców pogodowych dla danego regionu.,C1
+Technologia,Artificial Intelligence,Sztuczna inteligencja,Artificial intelligence is transforming various industries.,Sztuczna inteligencja zmienia różne branże.,C1
+Technologia,Machine Learning,Uczenie maszynowe,Machine learning algorithms can improve their performance over time.,Algorytmy uczenia maszynowego mogą poprawiać swoją wydajność z czasem.,C1
+Technologia,Algorithm,Algorytm,An algorithm is a set of rules for solving a problem or performing a task.,Algorytm to zestaw zasad do rozwiązania problemu lub wykonania zadania.,C1
+Technologia,Data Encryption,Szyfrowanie danych,Data encryption protects sensitive information from unauthorized access.,Szyfrowanie danych chroni wrażliwe informacje przed nieautoryzowanym dostępem.,C1
+Technologia,Cloud Computing,Przetwarzanie w chmurze,Cloud computing allows users to access and store data online.,Przetwarzanie w chmurze umożliwia użytkownikom dostęp i przechowywanie danych online.,C1
+Technologia,Cybersecurity,Cyberbezpieczeństwo,Cybersecurity measures are essential to protect against data breaches.,"Środki cyberbezpieczeństwa są niezbędne, aby chronić przed naruszeniami danych.",C1
+Technologia,Big Data,Duże zbiory danych,Big data analytics can uncover patterns and trends in large datasets.,Analiza dużych zbiorów danych może ujawnić wzorce i trendy w dużych zestawach danych.,C1
+Technologia,Blockchain,Technologia blockchain,Blockchain technology ensures transparency and security in transactions.,Technologia blockchain zapewnia przejrzystość i bezpieczeństwo transakcji.,C1
+Technologia,Internet of Things (IoT),Internet rzeczy,The Internet of Things connects everyday objects to the internet.,Internet rzeczy łączy codzienne przedmioty z internetem.,C1
+Technologia,Virtual Reality (VR),Wirtualna rzeczywistość,Virtual reality provides immersive experiences for users.,Wirtualna rzeczywistość zapewnia wciągające doświadczenia dla użytkowników.,C1
+Technologia,Augmented Reality (AR),Rzeczywistość rozszerzona,Augmented reality overlays digital information onto the real world.,Rzeczywistość rozszerzona nakłada cyfrowe informacje na rzeczywisty świat.,C1
+Technologia,Robotics,Robotyka,Robotics involves designing and building robots for various applications.,Robotyka obejmuje projektowanie i budowanie robotów do różnych zastosowań.,C1
+Technologia,Automation,Automatyzacja,Automation streamlines repetitive tasks and processes.,Automatyzacja upraszcza powtarzalne zadania i procesy.,C1
+Technologia,Software Development,Rozwój oprogramowania,Software development involves writing and maintaining computer programs.,Rozwój oprogramowania polega na pisaniu i utrzymywaniu programów komputerowych.,C1
+Technologia,Hardware,Sprzęt komputerowy,Hardware refers to the physical components of a computer system.,Sprzęt komputerowy odnosi się do fizycznych komponentów systemu komputerowego.,C1
+Technologia,User Interface (UI),Interfejs użytkownika,A user interface is the space where interactions between humans and machines occur.,"Interfejs użytkownika to przestrzeń, w której zachodzą interakcje między ludźmi a maszynami.",C1
+Technologia,User Experience (UX),Doświadczenie użytkownika,User experience design focuses on creating products that provide meaningful experiences.,"Projektowanie doświadczeń użytkownika koncentruje się na tworzeniu produktów, które zapewniają wartościowe doświadczenia.",C1
+Technologia,Data Analytics,Analiza danych,Data analytics involves examining data to draw conclusions and make decisions.,Analiza danych polega na badaniu danych w celu wyciągania wniosków i podejmowania decyzji.,C1
+Technologia,Network Security,Bezpieczeństwo sieci,Network security is critical for protecting data and systems from cyber threats.,Bezpieczeństwo sieci jest kluczowe dla ochrony danych i systemów przed zagrożeniami cybernetycznymi.,C1
+Technologia,Database Management,Zarządzanie bazą danych,Database management involves organizing and maintaining data for efficient retrieval.,Zarządzanie bazą danych polega na organizowaniu i utrzymywaniu danych w celu efektywnego ich pozyskiwania.,C1
+Technologia,IT Infrastructure,Infrastruktura IT,"IT infrastructure includes hardware, software, and network resources.","Infrastruktura IT obejmuje sprzęt, oprogramowanie i zasoby sieciowe.",C1
+Technologia,Cyberattack,Atak cybernetyczny,A cyberattack is an attempt to damage or disrupt computer systems and networks.,Atak cybernetyczny to próba uszkodzenia lub zakłócenia systemów komputerowych i sieci.,C1
+Technologia,Tech Innovation,Innowacja technologiczna,Tech innovation drives progress and creates new opportunities in various fields.,Innowacja technologiczna napędza postęp i tworzy nowe możliwości w różnych dziedzinach.,C1
+Technologia,System Integration,Integracja systemów,System integration involves combining different IT systems to work together.,"Integracja systemów polega na łączeniu różnych systemów IT, aby współpracowały ze sobą.",C1
+Technologia,Digital Transformation,Transformacja cyfrowa,Digital transformation refers to using digital technologies to change business processes.,Transformacja cyfrowa odnosi się do wykorzystywania technologii cyfrowych do zmiany procesów biznesowych.,C1
+Technologia,Tech Startup,Startup technologiczny,A tech startup is a young company focused on developing new technology.,Startup technologiczny to młoda firma skoncentrowana na rozwijaniu nowych technologii.,C1
+Technologia,Cloud Storage,Przechowywanie w chmurze,Cloud storage allows users to save and access data from any device.,Przechowywanie w chmurze umożliwia użytkownikom zapisywanie i dostęp do danych z dowolnego urządzenia.,C1
+Technologia,Data Breach,Naruszenie danych,A data breach involves unauthorized access to sensitive information.,Naruszenie danych oznacza nieautoryzowany dostęp do wrażliwych informacji.,C1
+Technologia,Tech Support,Wsparcie techniczne,Tech support helps users resolve technical issues with their devices or software.,Wsparcie techniczne pomaga użytkownikom rozwiązywać problemy techniczne z ich urządzeniami lub oprogramowaniem.,C1
+Technologia,Information Systems,Systemy informacyjne,Information systems manage and analyze data to support business decisions.,Systemy informacyjne zarządzają i analizują dane w celu wspierania decyzji biznesowych.,C1
+Podróż,Itinerary,Plan podróży,The itinerary included visits to several historical landmarks.,Plan podróży obejmował wizyty w kilku zabytkowych miejscach.,C1
+Podróż,Accommodation,Zakwaterowanie,Accommodation options range from luxury hotels to budget hostels.,Opcje zakwaterowania wahają się od luksusowych hoteli po tanie hostele.,C1
+Podróż,Sightseeing,Zwiedzanie,Sightseeing tours often include guided visits to popular attractions.,Wycieczki turystyczne często obejmują zwiedzanie popularnych atrakcji z przewodnikiem.,C1
+Podróż,Destination,Cel podróży,Our destination for the summer vacation is the beautiful coastal town.,Naszym celem podróży na wakacje letnie jest piękne nadmorskie miasteczko.,C1
+Podróż,Customs,Odprawa celna,Customs regulations vary from country to country.,Przepisy celne różnią się w zależności od kraju.,C1
+Podróż,Travel Insurance,Ubezpieczenie podróżne,Travel insurance provides coverage for unexpected events while traveling.,Ubezpieczenie podróżne zapewnia ochronę na wypadek nieprzewidzianych zdarzeń podczas podróży.,C1
+Podróż,Visa,Wiza,A visa is often required for entry into certain countries.,Wiza często jest wymagana do wjazdu do niektórych krajów.,C1
+Podróż,Jet Lag,Jet lag (zmęczenie po podróży),Jet lag can disrupt your sleep patterns and overall well-being.,Jet lag może zakłócić wzorce snu i ogólne samopoczucie.,C1
+Podróż,Travelogue,Dziennik podróży,She wrote a travelogue about her adventures in South America.,Napisała dziennik podróży o swoich przygodach w Ameryce Południowej.,C1
+Podróż,Guided Tour,Wycieczka z przewodnikiem,A guided tour offers insightful information about historical sites.,Wycieczka z przewodnikiem oferuje wnikliwe informacje o zabytkowych miejscach.,C1
+Podróż,Local Cuisine,Kultura kulinarna,Trying local cuisine is an essential part of experiencing a new culture.,Próbowanie lokalnej kuchni jest istotną częścią poznawania nowej kultury.,C1
+Podróż,Cultural Heritage,Dziedzictwo kulturowe,The city is known for its rich cultural heritage and historic monuments.,Miasto jest znane z bogatego dziedzictwa kulturowego i zabytków historycznych.,C1
+Podróż,Travel Agency,Biuro podróży,A travel agency can help you plan and book your vacation.,Biuro podróży może pomóc w zaplanowaniu i zarezerwowaniu wakacji.,C1
+Podróż,Backpacking,Wędrowanie z plecakiem,Backpacking allows for a flexible and adventurous travel experience.,Wędrowanie z plecakiem pozwala na elastyczne i pełne przygód doświadczenie podróżnicze.,C1
+Podróż,Excursion,Wycieczka,An excursion is a short trip taken for leisure or education.,Wycieczka to krótka podróż podejmowana w celach rekreacyjnych lub edukacyjnych.,C1
+Podróż,Embassy,Ambasada,The embassy can assist with passport issues and travel advisories.,Ambasada może pomóc w sprawach związanych z paszportem i zaleceniach podróżnych.,C1
+Podróż,Travel Advisory,Ostrzeżenie podróżne,Travel advisories provide information on safety and security conditions in a destination.,Ostrzeżenia podróżne dostarczają informacji na temat bezpieczeństwa i warunków w danym miejscu.,C1
+Podróż,Overseas,Zagraniczny,Traveling overseas often requires careful planning and preparation.,Podróżowanie za granicę często wymaga starannego planowania i przygotowania.,C1
+Podróż,Tourist Trap,Pułapka turystyczna,"Some popular sites can become tourist traps, with inflated prices and overcrowding.","Niektóre popularne miejsca mogą stać się pułapkami turystycznymi, z zawyżonymi cenami i tłumami.",C1
+Podróż,Travel Companion,Towarzysz podróży,Having a travel companion can make the journey more enjoyable.,Posiadanie towarzysza podróży może uczynić podróż bardziej przyjemną.,C1
+Podróż,Adventure Travel,Podróże przygodowe,"Adventure travel involves activities like hiking, climbing, and scuba diving.","Podróże przygodowe obejmują takie aktywności jak wędrówki, wspinaczka i nurkowanie.",C1
+Podróż,Cultural Exchange,Wymiana kulturalna,Cultural exchange programs help people learn about and appreciate different cultures.,Programy wymiany kulturalnej pomagają ludziom poznawać i doceniać różne kultury.,C1
+Podróż,Travel Voucher,Kupon podróżny,A travel voucher can be used to redeem discounts or services for travel.,Kupon podróżny może być użyty do uzyskania zniżek lub usług podróżniczych.,C1
+Podróż,Tourist Visa,Wiza turystyczna,A tourist visa allows foreigners to visit a country for leisure purposes.,Wiza turystyczna pozwala cudzoziemcom odwiedzić kraj w celach rekreacyjnych.,C1
+Podróż,Departure,Odlot,The departure time for the flight was delayed due to weather conditions.,Czas odlotu lotu został opóźniony z powodu warunków pogodowych.,C1
+Podróż,Arrival,Przyjazd,Arrival at the hotel was smooth and efficient.,Przyjazd do hotelu przebiegł sprawnie i efektywnie.,C1
+Podróż,Luggage,Bagaż,Make sure to label your luggage with your contact information.,"Upewnij się, że oznaczasz swój bagaż swoimi danymi kontaktowymi.",C1
+Podróż,Check-in,Zameldowanie,Check-in at the airport usually starts three hours before the flight.,Zameldowanie na lotnisku zazwyczaj zaczyna się trzy godziny przed lotem.,C1
+Podróż,Customs Declaration,Deklaracja celna,You must complete a customs declaration form for items you bring into the country.,"Musisz wypełnić formularz deklaracji celnej dla przedmiotów, które wprowadzasz do kraju.",C1
+Podróż,Tour Operator,Organizator wycieczek,A tour operator manages and arranges travel packages and guided tours.,Organizator wycieczek zarządza i organizuje pakiety podróżnicze oraz wycieczki z przewodnikiem.,C1
+Psychologia,Cognitive Dissonance,Dysonans poznawczy,Cognitive dissonance often leads individuals to change their attitudes or beliefs.,Dysonans poznawczy często prowadzi do zmiany postaw lub przekonań przez jednostki.,C1
+Psychologia,Self-Actualization,Samorealizacja,Self-actualization involves realizing one's full potential and abilities.,Samorealizacja obejmuje realizację pełnego potencjału i zdolności jednostki.,C1
+Psychologia,Neurodevelopment,Neurodevelopment,Neurodevelopment refers to the changes and growth in the nervous system throughout life.,Neurodevelopment odnosi się do zmian i rozwoju w układzie nerwowym przez całe życie.,C1
+Psychologia,Emotional Regulation,Regulacja emocjonalna,Effective emotional regulation can improve interpersonal relationships and mental health.,Skuteczna regulacja emocjonalna może poprawić relacje interpersonalne i zdrowie psychiczne.,C1
+Psychologia,Metacognition,Metapoznanie,Metacognition involves thinking about one's own thinking processes.,Metapoznanie polega na myśleniu o własnych procesach myślenia.,C1
+Psychologia,Psychodynamic Theory,Teoria psychodynamiczna,Psychodynamic theory emphasizes the influence of unconscious processes on behavior.,Teoria psychodynamiczna podkreśla wpływ procesów nieświadomych na zachowanie.,C1
+Psychologia,Attachment Style,Styl przywiązania,Attachment style can affect how individuals form and maintain relationships.,"Styl przywiązania może wpływać na to, jak jednostki nawiązują i utrzymują relacje.",C1
+Psychologia,Cognitive Restructuring,Restrukturyzacja poznawcza,Cognitive restructuring helps individuals challenge and change distorted thinking patterns.,Restrukturyzacja poznawcza pomaga jednostkom kwestionować i zmieniać zniekształcone wzorce myślenia.,C1
+Psychologia,Defense Mechanisms,Mechanizmy obronne,Defense mechanisms are psychological strategies used to cope with anxiety and stress.,Mechanizmy obronne to strategie psychologiczne używane do radzenia sobie z lękiem i stresem.,C1
+Psychologia,Self-Esteem,Poczucie własnej wartości,High self-esteem is often associated with greater overall life satisfaction.,Wysokie poczucie własnej wartości często wiąże się z większą ogólną satysfakcją z życia.,C1
+Psychologia,Implicit Bias,Bias niejawny,Implicit bias can affect decision-making and behavior without conscious awareness.,Bias niejawny może wpływać na podejmowanie decyzji i zachowanie bez świadomej świadomości.,C1
+Psychologia,Behavioral Conditioning,Warunkowanie behawioralne,Behavioral conditioning involves learning through interactions with the environment.,Warunkowanie behawioralne obejmuje uczenie się przez interakcje z otoczeniem.,C1
+Psychologia,Positive Reinforcement,Wzmocnienie pozytywne,Positive reinforcement encourages the repetition of desired behaviors by providing rewards.,Wzmocnienie pozytywne zachęca do powtarzania pożądanych zachowań przez oferowanie nagród.,C1
+Psychologia,Cognitive Bias,Błąd poznawczy,Cognitive bias can lead to systematic errors in judgment and decision-making.,Błąd poznawczy może prowadzić do systematycznych błędów w ocenie i podejmowaniu decyzji.,C1
+Psychologia,Emotional Intelligence,Inteligencja emocjonalna,Emotional intelligence is critical for effective communication and empathy.,Inteligencja emocjonalna jest kluczowa dla efektywnej komunikacji i empatii.,C1
+Psychologia,Psychopathology,Psychopatologia,Psychopathology is the study of psychological disorders and abnormal behavior.,Psychopatologia to badanie zaburzeń psychicznych i nienormalnego zachowania.,C1
+Psychologia,Therapeutic Alliance,Sojusz terapeutyczny,A strong therapeutic alliance is essential for successful therapy outcomes.,Silny sojusz terapeutyczny jest niezbędny dla pomyślnych rezultatów terapii.,C1
+Psychologia,Mindfulness,Uważność,Mindfulness practices can improve emotional regulation and reduce stress.,Praktyki uważności mogą poprawić regulację emocjonalną i zmniejszyć stres.,C1
+Psychologia,Existential Psychology,Psychologia egzystencjalna,"Existential psychology explores issues related to meaning, death, and freedom.","Psychologia egzystencjalna bada kwestie związane z sensem życia, śmiercią i wolnością.",C1
+Psychologia,Self-Perception,Postrzeganie siebie,Self-perception influences how individuals view their abilities and self-worth.,"Postrzeganie siebie wpływa na to, jak jednostki postrzegają swoje zdolności i wartość własną.",C1
+Psychologia,Therapeutic Techniques,Techniki terapeutyczne,Various therapeutic techniques are utilized to address different mental health issues.,Różne techniki terapeutyczne są stosowane w celu rozwiązania różnych problemów zdrowia psychicznego.,C1
+Psychologia,Group Therapy,Terapia grupowa,Group therapy provides a supportive environment for individuals to share experiences and learn from others.,"Terapia grupowa zapewnia wspierające środowisko, w którym jednostki mogą dzielić się doświadczeniami i uczyć się od innych.",C1
+Psychologia,Trauma-Informed Care,Opieka z uwzględnieniem traumy,Trauma-informed care recognizes the impact of trauma on an individual and incorporates this understanding into treatment.,Opieka z uwzględnieniem traumy uznaje wpływ traumy na jednostkę i uwzględnia to zrozumienie w leczeniu.,C1
+Psychologia,Rational Emotive Behavior Therapy (REBT),Racjonalna terapia emocjonalno-behawioralna,REBT focuses on changing irrational beliefs that lead to emotional distress.,REBT koncentruje się na zmianie irracjonalnych przekonań prowadzących do distressu emocjonalnego.,C1
+Psychologia,Self-Disclosure,Autoodkrycie,Self-disclosure involves revealing personal information to others in therapeutic settings.,Autoodkrycie polega na ujawnianiu osobistych informacji innym w kontekstach terapeutycznych.,C1
+Psychologia,Schema Therapy,Terapia schematów,Schema therapy aims to identify and change deeply ingrained patterns of thinking and behavior.,Terapia schematów ma na celu identyfikację i zmianę głęboko zakorzenionych wzorców myślenia i zachowania.,C1
+Psychologia,Interpersonal Relationships,Relacje interpersonalne,Interpersonal relationships are crucial for social support and emotional well-being.,Relacje interpersonalne są kluczowe dla wsparcia społecznego i dobrostanu emocjonalnego.,C1
+Psychologia,Therapeutic Techniques,Techniki terapeutyczne,Therapeutic techniques vary depending on the therapeutic approach and the individual’s needs.,Techniki terapeutyczne różnią się w zależności od podejścia terapeutycznego i potrzeb jednostki.,C1
+Psychologia,Clinical Assessment,Ocena kliniczna,Clinical assessment involves evaluating an individual's mental health through various methods.,Ocena kliniczna obejmuje ocenę zdrowia psychicznego jednostki za pomocą różnych metod.,C1
+Psychologia,Cognitive Distortion,Zniekształcenie poznawcze,Cognitive distortions are biased ways of thinking that lead to negative emotions and behaviors.,Zniekształcenia poznawcze to tendencyjne sposoby myślenia prowadzące do negatywnych emocji i zachowań.,C1

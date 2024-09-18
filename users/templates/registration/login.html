@@ -1,0 +1,44 @@
+{% extends 'view_not_log_in_base.html' %}
+{%  load static %}
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>WordMaster</title>
+
+
+
+    <link rel="stylesheet" href={% static "basic-app.css" %}>
+
+    <link rel="stylesheet" href="{% static 'css/uikit.min.css' %}">
+
+    <script src="{% static 'js/uikit.min.js' %}"></script>
+    <script src="{% static 'js/uikit-icons.min.js' %}"></script>
+
+</head>
+<body>
+
+    {% block page_content %}
+
+    <div class="uk-container uk-container-center uk-margin-top">
+
+
+    <h1>Zaloguj się</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{ form }}
+    <button class="uk-button-default uk-button">Zaloguj</button>
+    </form>
+    <span>Jeżeli nie masz jeszcze konta
+         <a href="{% url 'register'  %}">Zarejestruj się</a>
+    </span>
+    </div>
+    {% endblock %}
+</body>
+
+
+
+</html>
+
+

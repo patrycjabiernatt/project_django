@@ -1,0 +1,24 @@
+[33mcommit 277bd7227ac3d9e2f32edd20cf6b4f35b732064a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: edec720 4af1a70
+Author: Patrycja Biernat <patrycja.biernattt@gmail.com>
+Date:   Mon Sep 16 19:25:35 2024 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit edec7200fb5a89463dfb2efb5c82c051cbc95edb[m
+Author: Patrycja Biernat <patrycja.biernattt@gmail.com>
+Date:   Sat Sep 7 15:46:40 2024 +0200
+
+    Wprowadzenie ścieżek dynamicznych i dodanie możliwości dodania słówka przezadministatora
+
+[33mcommit 4af1a70591e28063d437b17beeea509789cd200f[m
+Author: Patrycja Biernat <patrycja.biernattt@gmail.com>
+Date:   Sat Sep 7 15:46:40 2024 +0200
+
+    Fixed import
+
+[33mcommit f5c321bded72d575d86659fa660355ac0356e896[m
+Author: Patrycja Biernat <patrycja.biernattt@gmail.com>
+Date:   Sat Sep 7 15:33:43 2024 +0200
+
+    Wrzucenie projektu

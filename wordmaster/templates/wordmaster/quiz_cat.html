@@ -1,0 +1,21 @@
+{% extends 'html_base.html' %}
+
+{% block page_content %}
+
+
+    <div class="uk-card uk-card-body uk-card-default uk-text-center uk-margin-medium">
+    <h1> {{ category_name }}</h1> 
+    </div>
+
+        <ul class="uk-grid uk-child-width-1-1@m uk-child-width-1-1@s uk-child-width-1-1@l">
+            {% for l in levels %}
+            <li><a href='{% url 'view_words_by_category_level_url' category_name l %}' class="uk-button uk-button-default uk-border-rounded uk-text-center uk-flex uk-flex-center uk-flex-middle uk-margin-small-bottom">{{ l }}</a></li>
+        {% empty %}
+            <li>Aplikacja zawiera 3 poziomy słownictwa: Intermediate (B1),  Upper Intermediate (B2),  Advanced (C1)</li>
+        {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
+
+{% endblock %}

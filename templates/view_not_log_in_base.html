@@ -1,0 +1,29 @@
+git log{%  load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <link rel = "stylesheet" href="{% static 'css/uikit.min.css' %}">
+    
+    <script src="{% static 'js/uikit.min.js' %}"></script>
+    <script src="{% static 'js/uikit-icons.min.js' %}"></script>
+
+</head>
+<body>
+    <div uk-height-viewport="offset-bottom: 0 " style="background: grey" class="uk-flex uk-flex-middle uk-flex-center">
+        <div class="uk-width-1-2 uk-card uk-card-default uk-border-rounded uk-flex uk-flex-center">
+            
+            {%block page_content%}
+                
+                
+            {% endblock %}
+            
+        </div>
+    </div>
+
+
+</body>
+</html>

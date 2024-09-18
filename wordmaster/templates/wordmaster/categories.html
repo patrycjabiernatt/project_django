@@ -1,0 +1,72 @@
+{% extends 'html_base.html' %}
+
+{% block page_content %}
+    
+    <div class = "uk-container uk-container-center uk-margin-large-top uk-background-muted ">
+    
+        <div class = "uk-grid-small uk-grid" uk-grid>
+    
+       
+    
+            <div class="center-grid uk-grid uk-text-center" >
+            {% for c in cat %}
+                
+                
+                {% if forloop.counter0 == 0 %}
+                   
+                
+                    <div  class="uk-width-1-2@ uk-width-1-3@l  uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-text-middle uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                    
+                {% elif forloop.counter0 == 1 %}
+                    <div  class="uk-width-1-2@ uk-width-1-3@l  uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-text-middle uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                    
+                {% elif forloop.counter0 == 2 %}
+                    <div  class="uk-width-1-2@ uk-width-1-3@l uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-text-middle uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                       
+                    
+                {% elif forloop.counter0 == 3 %}
+                    <div  class=" uk-width-1-2@ uk-width-1-3@l uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-text-middle uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                    
+                {% elif forloop.counter0 == 4 %}
+                    <div  class="uk-width-1-2@ uk-width-1-3@l uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                    
+                    
+                 {% elif forloop.counter0 == 5 %}
+                    <div  class="uk-width-1-2@ uk-width-1-3@l  uk-text-middle center-grid uk-margin-small" >
+                        <div class="uk-card uk-card-default uk-card-body uniform-size uk-text-large uk-text-middle uk-animation-scale-up" ><a style = "text-decoration:none" class="uk-text-emphasis" href="{% url 'view_words_by_category_url' c  %}">{{ c }}</a></div>
+                    </div>
+                    
+                    
+                    
+                    
+                {% endif %}
+                
+            {% endfor %}
+            </div>
+        
+    
+        </div>        
+
+        
+        
+        
+    </div>
+    
+    
+    
+    
+</div>
+
+    
+
+{% endblock %}
